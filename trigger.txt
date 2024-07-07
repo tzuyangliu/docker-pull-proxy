@@ -1,1 +1,2 @@
 adguard/adguardhome:v0.107.52 registry.cn-hangzhou.aliyuncs.com/thealiyunmirror/adguardhome:v0.107.52
+homeassistant/home-assistant:2024.7.1 registry.cn-hangzhou.aliyuncs.com/thealiyunmirror/home-assistant:2024.7.1
